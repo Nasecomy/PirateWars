@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StoryModeLevels</key>
+	<array>
+		<string>StoryLevel1</string>
+		<string>StoryLevel2</string>
+		<string>StoryLevel3</string>
+		<string>StoryLevel4</string>
+		<string>StoryLevel5</string>
+		<string>StoryLevel6</string>
+		<string>StoryLevel6</string>
+	</array>
+	<key>ServerModeLevels</key>
+	<array>
+		<string>WarLevelServer</string>
+	</array>
+	<key>ClientModeLevels</key>
+	<array>
+		<string>WarLevelClient</string>
+	</array>
+</dict>
+</plist>
